@@ -1,0 +1,2 @@
+# Divisons-based-on-Screen-Size
+Here we have make the use of Bootstrap to divide the screen size on the basis of device.
